@@ -6,7 +6,7 @@ A collection of hands-on blue team labs and investigations covering SOC operatio
 log analysis, network monitoring, and incident response.
 
 ## 📋 Labs
-
+**Wireshark Malicious Traffic Analysis** | Wireshark, Kali Linux, md5sum, sha256sum | [View](Wireshark-Malicious-Traffic-Analysis.md) |
 
 
 
