@@ -8,6 +8,7 @@ log analysis, network monitoring, and incident response.
 ## 📋 Labs
 **Wireshark Malicious Traffic Analysis** | Wireshark, Kali Linux, md5sum, sha256sum | [View](Wireshark-Malicious-Traffic-Analysis.md) |
 
+**Wireshark Lateral Movement Analysis (PsExec/SMB)** | Wireshark, SMB/SMB2, NTLM | [View](Wireshark-LateralMovement-Analysis.md) |
 
 
 
