@@ -6,6 +6,8 @@ A collection of hands-on blue team labs and investigations covering SOC operatio
 log analysis, network monitoring, and incident response.
 
 ## 📋 Labs
+**h4acked — Network Forensics & Incident Recovery** | Wireshark | [View](thm-h4acked-forensics.md) |
+
 **Splunk BOTS v1 Threat Hunting** | Splunk, Suricata, Sysmon, SPL | [View](SplunkBOTSv1-ThreatHunting-Investigation.md) |
 
 **Splunk VPN Log Analysis** | Splunk, SPL | [View](Splunk-VPN-Log-Analysis-SPL.md) |
